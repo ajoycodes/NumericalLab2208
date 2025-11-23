@@ -4,5 +4,4 @@ project(Numerical_Labs)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(Numerical_Labs
-
-        "Lab 07/DividedDiff.cpp")
+        "Lab 07/MatInversion.cpp")
