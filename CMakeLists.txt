@@ -4,5 +4,4 @@ project(Numerical_Labs)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(Numerical_Labs
-
-        "Lab 08/TranscendentalRegression.cpp")
+        "Lab 09/Simpson.cpp")
